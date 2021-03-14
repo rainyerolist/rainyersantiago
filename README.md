@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @rainyersantiago
+- 👀 I’m mainly interested in mobile development with React-Native and Typescript
